@@ -1,0 +1,57 @@
+img.logo {
+    height: 100px;
+}
+img.regi_motor {
+    height: 100px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    margin: 0;
+  }
+
+  nav a {
+    
+    color: black;
+    display: block;
+    padding: 50px;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+ .bekezdes {
+    color: green;
+
+ }
+
+ .focim2 {
+    color:aqua;
+
+ }
+
+ #elsoBekezdes {
+    text-align: center;
+    color:darkblue;
+    line-height: 50px;
+ }
+
+.elerhetoseg  {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .copyright {
+    display: flex;
+    vertical-align: bottom;
+    justify-content: center;
+    align-items: center;
+    
+ }
