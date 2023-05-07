@@ -1,5 +1,8 @@
-img.logo {
-    height: 100px;
+img {
+   border-radius: 8px;
+   align-content: center;
+   display: flex;
+   
 }
 
 nav ul {
@@ -43,6 +46,7 @@ nav ul {
     display:flex;
     justify-content: center;
     align-items: center;
+    line-height: 10px;
  }
 
 .copyright {
@@ -52,3 +56,15 @@ nav ul {
     align-items: center;
     
  }
+ #MainBekezdes {
+   text-align: center;
+   color:darkcyan;
+   line-height: 100px;
+ }
+ #H1 {
+   font-family: 'Bruno Ace', cursive;
+ }
+ #H2 {
+   font-family: 'Anuphan', sans-serif;
+ }
+ a[href^="mailto"] { color: black; }
